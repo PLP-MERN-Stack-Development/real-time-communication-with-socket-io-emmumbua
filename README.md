@@ -172,5 +172,3 @@ Place them in a `docs/` or within the README once captured.
 
 ---
 
-Happy brewing! ☕  
-Feel free to extend BeanStream Lounge with reactions history, message pinning, or barista bots to go beyond the rubric. 
